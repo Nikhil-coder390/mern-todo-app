@@ -32,7 +32,7 @@ For more details on how to use this application, please refer to the <a href="ht
 
 ## Output :camera:
 
-![OUTPUT](img\Output.png)
+![OUTPUT](img/Output.png)
 
 ## Contact :email:
 
