@@ -25,7 +25,7 @@ To run the Full Stack MERN Todo App, follow these steps:
 
 ## Documentation :book:
 
-For more details on how to use this application, please refer to the [Notion Documentation](https://www.notion.so/Full-Stack-To-Do-App-MERN-Stack-50e8909754314043985278f667047c9a?pvs=4).
+For more details on how to use this application, please refer to the <a href="https://www.notion.so/Full-Stack-To-Do-App-MERN-Stack-50e8909754314043985278f667047c9a?pvs=4">Notion Documentation</a>
 
 [Video Reference](https://youtu.be/R81g-2r6ynM?si=g7DgbtwRCbN5h4BS)
 
