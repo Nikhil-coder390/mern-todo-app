@@ -1,0 +1,27 @@
+GET http://localhost:3001/todos HTTP/1.1
+
+###
+
+POST http://localhost:3001/todo/new
+Content-Type: application/json
+
+{
+	"text": "Pick up boat"
+}
+
+###
+//http://localhost:3001/todo/delete/:id - delete todo by id
+DELETE http://localhost:3001/todo/delete/66573566c49afc327baeb983
+
+###
+//http://localhost:3001/todo/complete/66573772ba3bf86cab9b9de6 - mark todo as complete
+GET http://localhost:3001/todo/complete/66573772ba3bf86cab9b9de6
+
+###
+
+PUT http://localhost:3001/todo/update/66573772ba3bf86cab9b9de6
+Content-Type: application/json
+
+{
+	"text": "Go Shopping for Milk"
+}
